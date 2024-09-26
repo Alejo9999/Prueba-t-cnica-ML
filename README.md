@@ -1,1 +1,1 @@
-# Prueba-t-cnica-ML
+# Prueba-tecnica-ML
